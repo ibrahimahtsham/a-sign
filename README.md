@@ -14,9 +14,13 @@ In Arabic, *āyah* means both a verse of the Quran and a sign.
 | --- | --- |
 | ![Start page with an eight-pointed star button](screenshots/start.png) | ![Dots flying into the shape of Arabic text](screenshots/animation.png) |
 
-| Light mode | Phone |
-| --- | --- |
-| ![An ayah in light mode](screenshots/light.png) | <img src="screenshots/phone.png" alt="An ayah on a phone screen" width="260"> |
+**Light mode**
+
+![An ayah in light mode](screenshots/light.png)
+
+**Phone**
+
+<img src="screenshots/phone.png" alt="An ayah on a phone screen" width="300">
 
 ## What it does
 
